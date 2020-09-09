@@ -1,5 +1,5 @@
 # myCard
-![Capture](capture.png)
+![Capture](Capture.png)
 A new Flutter project.
 
 ## Getting Started
