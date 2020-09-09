@@ -1,6 +1,5 @@
 # myCard
 
-(https://github.com/Meet-05/MyCard-Flutter/blob/master/capture.png?raw=true)
 A new Flutter project.
 
 ## Getting Started
